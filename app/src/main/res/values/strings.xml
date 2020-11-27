@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KidsApp</string>
+    <string name="play_button_text">Play</string>
+    <string name="pause_button">Pause</string>
+</resources>
